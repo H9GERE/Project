@@ -2,7 +2,7 @@
 name: Villányi Olivér
 neptun: H9GERE
 id: 2026-OG-02
-github: https://github.com
+github: https://github.com/H9GERE
 github_project: https://github.com/H9GERE/Project.git
 ---
 # Konzisztens dinamikus játékvilág megvalósítása nagyméretű nyelvi modellekre épülő szöveges kalandjátékban
