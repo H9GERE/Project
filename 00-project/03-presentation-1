@@ -7,8 +7,6 @@ project_outline: "[[00-project/01-project-outline]]"
 
 # Konzisztens dinamikus játékvilág megvalósítása LLM-alapú szöveges kalandjátékban
 
-<!-- @gap 3 -->
-
 <!-- @set-align left -->
 
 Szerző: **Villányi Olivér**
@@ -21,9 +19,9 @@ Projektazonosító: **2026-OG-02**
 
 ---
 
-<!-- @slide Probléma és Kihívás -->
+<!-- @slide Probléma -->
 
-# Probléma és Kihívás
+## Probléma
 
 <!-- @set-align left -->
 
@@ -35,7 +33,7 @@ Projektazonosító: **2026-OG-02**
 
 <!-- @slide Célok és Sikerkritériumok -->
 
-# Célok és Sikerkritériumok
+## Célok és Sikerkritériumok
 
 <!-- @set-align left -->
 
@@ -50,7 +48,7 @@ Projektazonosító: **2026-OG-02**
 
 <!-- @slide Célfelhasználók -->
 
-# Célfelhasználók
+## Célfelhasználók
 
 <!-- @set-align left -->
 
@@ -62,12 +60,12 @@ Projektazonosító: **2026-OG-02**
 
 <!-- @slide Tervezett hatókör -->
 
-# Tervezett hatókör
+## Tervezett hatókör
 
 <!-- @set-align left -->
 <!-- @columns 2 5 -->
 
-## Benne van
+** Benne van
 
 - Játék indítása, mentése és betöltése a felületen.
 - A játékos döntéseinek és szabad szöveges/opcióalapú inputjainak feldolgozása.
@@ -77,7 +75,7 @@ Projektazonosító: **2026-OG-02**
 
 <!-- @col-break -->
 
-## Nincs benne
+** Nincs benne
 
 - Többjátékos (multiplayer) játékmód.
 - Grafikus 2D vagy 3D játékvilág-megjelenítés.
@@ -87,7 +85,7 @@ Projektazonosító: **2026-OG-02**
 
 <!-- @slide Kezdeti felhasználói utak -->
 
-# Kezdeti felhasználói utak
+## Kezdeti felhasználói utak
 
 <!-- @set-align left -->
 
@@ -99,7 +97,7 @@ Projektazonosító: **2026-OG-02**
 
 <!-- @slide Következő lépések (Első prototípus) -->
 
-# Következő lépések
+## Következő lépések
 
 <!-- @set-align left -->
 
