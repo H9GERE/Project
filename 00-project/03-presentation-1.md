@@ -8,7 +8,7 @@ Szerző: **Villányi Olivér**
 
 Neptun: **H9GERE**
 
-Projektvezető: **Gábor Oláh**
+Projektvezető: **Oláh Gábor**
 
 Projektazonosító: **2026-OG-02**
 
