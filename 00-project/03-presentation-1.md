@@ -20,7 +20,7 @@ Projektazonosító: **2026-OG-02**
 
 # Probléma
 
-<!-- @set-align left -->
+<!-- @set-align center -->
 
 - A nagyméretű nyelvi modellek (LLM) képesek dinamikusan generálni a narratívát a játékos döntései alapján, de a hosszú játékmenetek során komoly kihívást jelent a játékvilág konzisztenciájának fenntartása.
 - Az LLM-ek hajlamosak "elflejteni" korábbi eseményeket, vagy logikai ellentmondásokba keveredni a világ állapotát illetően.
@@ -32,7 +32,7 @@ Projektazonosító: **2026-OG-02**
 
 # Célfelhasználók
 
-<!-- @set-align left -->
+<!-- @set-align center -->
 
 - **Szöveges és szerepjátékok kedvelői**, akik egyedi, dinamikusan alakuló történetekre vágynak kötöttségek nélkül.
 - **Az AI-alapú játékkészítés iránt érdeklődők**, akik szeretnék látni a generatív AI és a hagyományos játéklogika integrációját.
@@ -43,7 +43,7 @@ Projektazonosító: **2026-OG-02**
 
 # Tervezett hatókör
 
-<!-- @set-align left -->
+<!-- @set-align center -->
 <!-- @columns 2 5 -->
 
 ## Benne van
@@ -68,7 +68,7 @@ Projektazonosító: **2026-OG-02**
 
 # Kezdeti felhasználói utak
 
-<!-- @set-align left -->
+<!-- @set-align center -->
 
 1. **Játékkezdés és döntések:** A játékos elindítja a történetet, szabad szöveges választ ad meg, a rendszer pedig az LLM segítségével továbbfűzi a cselekményt.
 2. **Állapotváltozás:** A játékos valahogy a világgal kölcsönhatásba lép; a háttérben futó determinisztikus modell frissíti az eseménytárat, és validálja.
@@ -80,7 +80,7 @@ Projektazonosító: **2026-OG-02**
 
 # Következő lépések
 
-<!-- @set-align left -->
+<!-- @set-align center -->
 
 - **Memóriakezelési stratégiák összehasonlítása:** A kontextus-összegzés és a vektoriális keresés tesztelése.
 - **Prezentációk folytatása:** Dokumentáció folytatása.
