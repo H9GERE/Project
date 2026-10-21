@@ -4,7 +4,7 @@
 
 <!-- @gap 3 -->
 
-<!-- @set-align left -->
+<!-- @set-align center -->
 
 Szerző: **Villányi Olivér**
 
