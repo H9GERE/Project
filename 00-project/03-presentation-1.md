@@ -36,7 +36,6 @@ Projektazonosító: **2026-OG-02**
 
 - **Szöveges és szerepjátékok kedvelői**, akik egyedi, dinamikusan alakuló történetekre vágynak kötöttségek nélkül.
 - **Az AI-alapú játékkészítés iránt érdeklődők**, akik szeretnék látni a generatív AI és a hagyományos játéklogika integrációját.
-- **Fejlesztők**, akiket a hosszú távú kontextus- és memóriakezelési stratégiák gyakorlati alkalmazása érdekel.
 
 ---
 
