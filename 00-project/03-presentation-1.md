@@ -1,3 +1,5 @@
+<!-- @slide Cím -->
+
 # Konzisztens dinamikus játékvilág megvalósítása LLM-alapú szöveges kalandjátékban
 
 <!-- @gap 3 -->
