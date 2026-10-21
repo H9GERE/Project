@@ -56,6 +56,8 @@ Projektazonosító: **2026-OG-02**
 
 <!-- @col-break -->
 
+<!-- @slide Nincs benne -->
+
 ## Nincs benne
 
 - Többjátékos (multiplayer) játékmód.
