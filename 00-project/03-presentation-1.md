@@ -82,6 +82,5 @@ Projektazonosító: **2026-OG-02**
 
 <!-- @set-align left -->
 
-- **Memóriakezelési stratégiák összehasonlítása:** A kontextus-összegzés és a vektoriális keresés tesztelése az első prototípusban.
-- **Alap játékkör stabilizálása:** Az állapotkonzisztencia és a core loop megbízható működésének elérése.
-- **Világméretek növelése:** Összetettebb történetszálak és nagyobb világok bevezetése, miután az alapok már szilárdak.
+- **Memóriakezelési stratégiák összehasonlítása:** A kontextus-összegzés és a vektoriális keresés tesztelése.
+- **Prezentációk folytatása:** Dokumentáció folytatása.
